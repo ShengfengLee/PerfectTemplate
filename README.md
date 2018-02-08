@@ -2,7 +2,7 @@
 
 ## 编译运行
 
-下列命令行可以克隆并在8080和8181端口编译并启动 HTTP 服务器：
+下列命令行可以克隆并在8282端口编译并启动 HTTP 服务器：
 
 ```
 git https://github.com/ShengfengLee/PerfectTemplate.git
